@@ -1,0 +1,11 @@
+# File Path
+path: C:\r11725050\final_project\YOLO_data
+train: .\train\images
+val: .\val\images
+test: .\test\iamges
+
+# Classes
+nc: 1
+
+# Class Names
+names: ['pupil']
