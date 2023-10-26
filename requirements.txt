@@ -1,4 +1,10 @@
-cv2
-torch
-ultralytics
 numpy
+torch
+opencv-python
+tqdm
+Pillow
+pathlib
+argparse
+rasterio
+ultralytics
+alphashape
